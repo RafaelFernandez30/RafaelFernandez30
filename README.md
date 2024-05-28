@@ -21,6 +21,7 @@
 
 </div>
 ### Proficiencies:
+
 ![Php](
 https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp;
 
