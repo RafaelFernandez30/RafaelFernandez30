@@ -8,7 +8,7 @@
 
 **Application and Data**
 
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,react,mysql,sqlite,js,html,css,py,c)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,react,npm,mysql,sqlite,postgres,js,ts,html,css,py,c)](https://skillicons.dev)
   
 **DevOps**
 
@@ -16,11 +16,11 @@
   
 **IDLE**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,pycharm,sublime)](https://skillicons.dev)
 
 **I like too**
 
-[![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,mint)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,mint,windows)](https://skillicons.dev)
   <br/>
 <br/>
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
