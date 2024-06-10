@@ -25,6 +25,6 @@
 <br/>
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
-[![Linkedin: Rafael Fernandez](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelfernandez30/)](https://www.linkedin.com/in/rafaelfernandez30/)
-[![Gmail Badge](https://img.shields.io/badge/-ellencdiass@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:rafael.f.fernandez30@gmail.com)
+[![Linkedin: Rafael Fernandez](https://img.shields.io/badge/-rafaelfernandez30-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelfernandez30/)](https://www.linkedin.com/in/rafaelfernandez30/)
+[![Gmail Badge](https://img.shields.io/badge/-rafael.f.fernandez30@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:rafael.f.fernandez30@gmail.com)
 [![GitHub]( https://img.shields.io/github/followers/RafaelFernandez30?label=follow&style=social)](https://github.com/RafaelFernandez30/)
