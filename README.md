@@ -8,7 +8,7 @@
 
 **Application and Data**
 
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,react,npm,mysql,sqlite,postgres,js,ts,html,css,py,c)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,react,npm,mysql,sqlite,postgres,js,ts,html,css,py,c&perline=3)](https://skillicons.dev)
   
 **DevOps**
 
