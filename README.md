@@ -1,9 +1,6 @@
 [![Typing SVG](
 https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Salve,+My+name+is+Rafael_Fernandez;I'm+a+Data+Analytics+Jr;Be+Welcome+my+profile!+:%29)](https://git.io/typing-svg)
 
-
-## 💻 Hi, my name is <strong>Rafael Fernandez!</strong>
-- 👨🏻‍💻 &nbsp;Data Analytics JR.
 - 📊 &nbsp; I create dashboards in Power Bi.
 - 📖 &nbsp; Learning about Python, DAX and M language.
 
