@@ -24,4 +24,4 @@
 
 [![Linkedin: Rafael Fernandez](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafaelfernandez30/)
 [![Gmail Badge](https://skillicons.dev/icons?i=gmail)](mailto:rafael.f.fernandez30@gmail.com)
-[![GitHub]( (https://skillicons.dev/icons?i=github))](https://github.com/RafaelFernandez30/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/RafaelFernandez30/)
