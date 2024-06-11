@@ -10,10 +10,7 @@
 
   [![My Skills](https://skillicons.dev/icons?i=nodejs,react,npm,mysql,sqlite,postgres,js,ts,html,css,py,c)](https://skillicons.dev)
   
-**DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-  
 **IDLE**
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,pycharm,sublime)](https://skillicons.dev)
@@ -27,4 +24,4 @@
 
 [![Linkedin: Rafael Fernandez](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafaelfernandez30/)
 [![Gmail Badge](https://skillicons.dev/icons?i=gmail)](mailto:rafael.f.fernandez30@gmail.com)
-[![GitHub]( https://img.shields.io/github/followers/RafaelFernandez30?label=follow&style=social)](https://github.com/RafaelFernandez30/)
+[![GitHub]( (https://skillicons.dev/icons?i=github))](https://github.com/RafaelFernandez30/)
